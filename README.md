@@ -1,4 +1,4 @@
-![topologia-exempllo-1024x685](https://github.com/PriscilaSantanaa/Introducao-Redes/assets/110680526/16927ffe-07c3-4533-b883-a3320d2d1d68)# Introdução a Redes de Computadores 🌐
+# Introdução a Redes de Computadores 🌐
 
 <p align="center" width="300px">
   <img width="300px" src="https://cdn-icons-png.flaticon.com/512/3518/3518210.png">
