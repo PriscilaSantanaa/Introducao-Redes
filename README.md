@@ -1,4 +1,4 @@
-# Introdução a Redes de Computadores 🌐
+![topologia-exempllo-1024x685](https://github.com/PriscilaSantanaa/Introducao-Redes/assets/110680526/16927ffe-07c3-4533-b883-a3320d2d1d68)# Introdução a Redes de Computadores 🌐
 
 <p align="center" width="300px">
   <img width="300px" src="https://cdn-icons-png.flaticon.com/512/3518/3518210.png">
@@ -33,3 +33,13 @@ Esses servidores podem ser de impressão, arquivos, e-mail, etc.
 _________________________________________________________________________________________________
 
 ### Topologia de Rede
+A topologia de rede é a forma como você organiza os elementos de uma rede de comunicação. A topologia de rede pode ser lógica ou física; a topologia lógica descreve o fluxo de dados na rede enquanto a física estabelece o layout da rede.
+
+- **Topologia estrela**: É o tipo de topologia mais comum, nela os hosts são conectados a um dispositivo central que gerencia a transmissão de dados na rede.
+- **Topologia barramento**: Conhecida como topologia backbone, distribui os dispositivos ao longo de um único cabo que vão de uma ponta a outra da rede.
+- **Topologia anel**: Os nós (comunicação entre dispositivos) são configurados de forma circular, ou seja, os dados viajam todos os dispositivos até achar o destinatário.
+
+Além dessas, existem diversas outras topologias de rede:
+<p align="center">
+  <img width="370px" src="https://anlix.io/wp-content/uploads/2022/02/topologia-exempllo-1024x685.png">
+</p>
