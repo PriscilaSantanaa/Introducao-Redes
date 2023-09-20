@@ -30,6 +30,13 @@ Esses servidores podem ser de impressão, arquivos, e-mail, etc.
   <img width="350px" src="https://camo.githubusercontent.com/a61ec8cf009a87cc79280f3a7d881364556ef690f98ea771a57ff0c575aed70a/687474703a2f2f692e696d6775722e636f6d2f4e63564d477a352e706e67">
 </p>
 
+#### Ponto a ponto
+A arquitetura ponto a ponto (P2P) é aquela em que os computadores conectados tem privilégios e capacidades iguais. De tal forma, não existe um servidor central, cada dispositivo pode atuar como cliente ou como servidor. 
+
+<p align="center">
+  <img width="350px" src="https://www.gta.ufrj.br/ensino/eel878/redes1-2018-1/trabalhos-v1/p2p/images/p2p_model.png">
+</p>
+
 _________________________________________________________________________________________________
 
 ### Topologia de Rede
@@ -43,3 +50,24 @@ Além dessas, existem diversas outras topologias de rede:
 <p align="center">
   <img width="370px" src="https://anlix.io/wp-content/uploads/2022/02/topologia-exempllo-1024x685.png">
 </p>
+
+### Quais os tipos de redes de computadores?
+Dependendo do tamanho e das funcionalidades da rede, elas recebem nomenclaturas e organizações diferentes.
+*Tópicos embasado no site aws.amazon.com*
+
+#### Rede de área local (LAN):
+Uma LAN (Rede local) é um sistema interconectado limitado a um tamanho local. Normalmente as LAN's estão alocadas em algum edifício ou escritório. Uma rede local geralmente é configurada em ambientes do tipo "cliente-servidor", onde vários computadores compartilham programas, recursos e dados com outros dispositivos da rede (nós).
+
+#### Redes de longa distância (WAN):
+Uma rede, normalmente empresarial, que abrange edifícios ou cidades. Diferentemente das LAN's que são configuradas para transmitir dados em velocidades altas e pequena distância, as WAN's são configuradas para propagar os dados por distâncias maiores de maneira segura.
+
+#### Redes de provedores de Serviço: 
+As redes de provedores de serviço oferta aos clientes um aluguel da capacidade e funcionalidades de rede do provedor. Podem ser empresas de telecomunicações, provedoras de serviço de Internet, etc.
+
+#### Redes em nuvem
+As redes em nuvem podem ser entendidas como uma WAN em que a infraestrutura está alocada na nuvem. Atualmente as redes em nuvem são utilizadas a fim de diminuir os gastos com Hardware e alocação de ativos de rede, aproveitando seus benefícios.
+
+<p align="center">
+  <img width="350px" src="https://media.licdn.com/dms/image/C4D12AQF1VNs5oJD8uQ/article-cover_image-shrink_600_2000/0/1614211759270?e=2147483647&v=beta&t=QVDhMaHAdHgI5dZgZGriPkPWRMn-ZFnFyegYJ9Rs_Ro">
+</p>
+
