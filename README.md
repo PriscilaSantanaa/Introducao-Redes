@@ -1,4 +1,4 @@
-# Introdução a Redes de Computadores 🌐
+![image](https://github.com/PriscilaSantanaa/Introducao-Redes/assets/110680526/9c0b6270-51e2-42f6-b9ab-4cbf3546c528)# Introdução a Redes de Computadores 🌐
 
 <p align="center" width="300px">
   <img width="300px" src="https://cdn-icons-png.flaticon.com/512/3518/3518210.png">
@@ -53,7 +53,7 @@ Além dessas, existem diversas outras topologias de rede:
 
 ### Quais os tipos de redes de computadores?
 Dependendo do tamanho e das funcionalidades da rede, elas recebem nomenclaturas e organizações diferentes.
-*Tópicos embasado no site aws.amazon.com*
+*Tópicos embasados no site aws.amazon.com*
 
 #### Rede de área local (LAN):
 Uma LAN (Rede local) é um sistema interconectado limitado a um tamanho local. Normalmente as LAN's estão alocadas em algum edifício ou escritório. Uma rede local geralmente é configurada em ambientes do tipo "cliente-servidor", onde vários computadores compartilham programas, recursos e dados com outros dispositivos da rede (nós).
@@ -71,3 +71,22 @@ As redes em nuvem podem ser entendidas como uma WAN em que a infraestrutura est�
   <img width="350px" src="https://media.licdn.com/dms/image/C4D12AQF1VNs5oJD8uQ/article-cover_image-shrink_600_2000/0/1614211759270?e=2147483647&v=beta&t=QVDhMaHAdHgI5dZgZGriPkPWRMn-ZFnFyegYJ9Rs_Ro">
 </p>
 
+_________________________________________________________________________________________________ 
+
+### Dispositivos de rede
+Os dispositivos de rede são separados de duas formas: ativos e passivos; Os ativos de rede são aqueles equipamentos que permitem a conexão entre dispositivos, são eles que geram o tráfego dos dados que estão na rede. 
+Os passivos da rede são aqueles que somente transportam os dados, sem interferir nas informações trafegadas. Eles são responsáveis por conectar os equipamentos (Ex: RJ45, fonte de alimentação, patch panel, calhas)
+
+Iremos dar ênfase nos ativos de rede, nas suas particularidades e comportamentos.
+
+#### Hubs
+Hubs são ativos de rede que interligam computadores, enviando um mesmo pacote para todos os receptores igualmente. Devido seu funcionamento, o Hub cria um grande domínio de colisão com os dispositivos conectados, sendo pouco utilizado atualmente, principalmente no meio empresarial.
+<p align="center">
+  <img width="350px" src="https://www.controle.net/novo/assets/img/faq/Hubs-faq-hubs-switches-e-roteadores-qual-e-a-diferenca-controlenet.webp">
+</p>
+
+#### Switch
+São ativos de rede muito utilizados; são os responsáveis pela ligação dos computadores, suportando uma alta quantidade de dispositivos conectados. Switchs são equipamentos que possuem diversas portas e conseguem manter a altar performance da rede.
+<p align="center">
+  <img width="350px" src="https://www.arubanetworks.com/wp-content/uploads/glossary-network-switch-diagram_1200x650.jpeg">
+</p>
