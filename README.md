@@ -80,7 +80,7 @@ Os passivos da rede são aqueles que somente transportam os dados, sem interferi
 Iremos dar ênfase nos ativos de rede, nas suas particularidades e comportamentos.
 
 #### Hubs
-Hubs são ativos de rede que interligam computadores, enviando um mesmo pacote para todos os receptores igualmente. Devido seu funcionamento, o Hub cria um grande domínio de colisão com os dispositivos conectados, sendo pouco utilizado atualmente, principalmente no meio empresarial.
+Hubs são equipamentos de rede que interligam computadores, enviando um mesmo pacote para todos os receptores igualmente. Devido seu funcionamento, o Hub cria um grande domínio de colisão com os dispositivos conectados, sendo pouco utilizado atualmente, principalmente no meio empresarial.
 <p align="center">
   <img width="350px" src="https://www.controle.net/novo/assets/img/faq/Hubs-faq-hubs-switches-e-roteadores-qual-e-a-diferenca-controlenet.webp">
 </p>
@@ -88,5 +88,12 @@ Hubs são ativos de rede que interligam computadores, enviando um mesmo pacote p
 #### Switch
 São ativos de rede muito utilizados; são os responsáveis pela ligação dos computadores, suportando uma alta quantidade de dispositivos conectados. Switchs são equipamentos que possuem diversas portas e conseguem manter a altar performance da rede.
 <p align="center">
-  <img width="350px" src="https://www.arubanetworks.com/wp-content/uploads/glossary-network-switch-diagram_1200x650.jpeg">
+  <img width="350px" src="https://i2.wp.com/cloudswit.ch/wp-content/uploads/2022/09/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1_01.png?fit=1704%2C1030&ssl=1">
 </p>
+
+#### Roteador
+Roteadores são aqueles dispositivos responsáveis por direcionar os dados da rede, usando os pacotes que contêm os mais variados dados. Esses pacotes de dados possuem várias seções que especificam suas informações de identificação (como tipo de dado, remetente, tamanho, etc); a mais importante para o roteador é o endereço IP do destino. Com essa informação ele é capaz de escolher a melhor rota a ser utilizada para cada transmissão.
+<p align="center">
+  <img width="350px" src="https://community.cisco.com/legacyfs/online/media/router_0.png">
+</p>
+
