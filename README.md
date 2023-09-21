@@ -1,4 +1,4 @@
-![image](https://github.com/PriscilaSantanaa/Introducao-Redes/assets/110680526/9c0b6270-51e2-42f6-b9ab-4cbf3546c528)# Introdução a Redes de Computadores 🌐
+# Introdução a Redes de Computadores 🌐
 
 <p align="center" width="300px">
   <img width="300px" src="https://cdn-icons-png.flaticon.com/512/3518/3518210.png">
