@@ -1,7 +1,7 @@
 # Endereçamento IP
 
 <p align="center">
-  <img width="350px" src=""
+  <img width="350px" src="https://www.dltec.com.br/blog/wp-content/uploads/2015/11/endereco-ip.jpg"
 </p>
 
 IP's são os endereços identificadores presentes em uma rede. Esses endereços possuem 32 bits (1 ou 0) e são escritos em notação decimal separada por pontos (Quatro tercetos separados por ponto). 
@@ -19,5 +19,5 @@ Na classe B os endereços vão desde 128.0.0.0 até 191.255.0.0, onde os dois pr
 Possui os endereços que vão desde 192.0.0.0 até 233.255.255.0, onde os três primeiros octetos (24 bits) correspondem a rede, já o último octeto identifica o host na rede.
 
 <p align="center">
-<img width="350px" src="https://www.hardware.com.br/static/books/redeseservidores/cap3-1_html_69ca709d.png">
+<img width="450px" src="https://windows.atsit.in/wp-content/uploads/2022/11/como-definir-um-endereco-ip-estatico-no-windows.jpg">
 </p>
